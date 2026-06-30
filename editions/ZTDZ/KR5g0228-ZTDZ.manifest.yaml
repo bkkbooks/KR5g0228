@@ -1,0 +1,40 @@
+canonical_identifier: bkk:krp/KR5g0228/ZTDZ/v1
+canonical_location: https://kanripo.org/bkk/KR5g0228/ZTDZ/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 七元召魔伏六天神咒經
+  date: '2015-08-29 03:00:27.473453'
+  source:
+    repository: kanripo
+    path: KR5g0228
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    WYG: http://img.kanripo.org/general/skqs/wyg/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+  edition:
+    short: ZTDZ
+    label: 【正統道藏・三家本】
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR5g0228_000-ZTDZ.yaml, hash: 'sha256:9ad82d13330458e9365c102cc88f9d5e19599857bc092f4b3eddfe943e6e69b5'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR5g0228_000-ZTDZ.markers.yaml, hash: 'sha256:5725a3a0c39d9328f7ddcc6d227ac64e51507091b70e1a0ae914ff5c6824a461'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR5g0228_SJB_000-340450b
+    span:
+    - body
+    - 0
+    - 517
+  label: juan 000
+  type: section
+  level: 1
+hash: sha256:91543e098e5d41e46a35102a4b3994ffa40aa9bd4753b362ff496c0013905b09
